@@ -1,0 +1,104 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #BDB76B;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+nav img {
+    float: left;
+    margin-right: 20px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:34px 46px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+body {
+    background-image: url('https://img.freepik.com/vecteurs-libre/fond-geometrique-blanc-dore-realiste_79603-2032.jpg?w=826&t=st=1694989437~exp=1694990037~hmac=e9f15733812d71a396a104954d17d31424d18949702af08395a7878830249009');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Roboto, sans-serif;
+
+  }
+
+  p {
+      font-size: 25px; /
+
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    thead {
+        background-color: #333;
+        color: white;
+    }
+
+    th {
+        padding: 10px;
+        text-align: left;
+    }
+
+    td {
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .center-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 30vh;
+    }
